@@ -1,4 +1,4 @@
-# 👻 Ghost Prank Python App
+# 👻 Ghost Prank Python
 
 A fun Python prank project that surprises users with a sudden ghost jump scare! 😈  
 Perfect for harmless fun with friends.
